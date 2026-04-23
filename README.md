@@ -1,17 +1,19 @@
-## Hi there 👋
+### Jonathan Salazar
 
-💻 Lenguajes más usados
-<!--
-**Jonathan-itch2/Jonathan-itch2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de Ingeniería en Sistemas Computacionales
+Enfocado en desarrollo backend, APIs y sistemas web
 
-Here are some ideas to get you started:
+Tecnologías:
+ASP.NET Core, FastAPI
+Next.js, React
+MySQL, SQL Server
+Python, C#, JavaScript, TypeScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Nota importante
+
+Algunos de mis proyectos y contribuciones se encuentran en mi cuenta institucional:
+https://github.com/TU-USUARIO-INSTITUCIONAL
+
+(Debido a que fueron desarrollados en entorno académico o colaborativo)
+
+De cualquier forma, deje los forks para acceso directo, aunque el historial sigue estando en la cuenta institucional
