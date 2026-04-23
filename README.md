@@ -12,7 +12,7 @@ Python, C#, JavaScript, TypeScript
 ### Nota importante
 
 Algunos de mis proyectos y contribuciones se encuentran en mi cuenta institucional:
-https://github.com/TU-USUARIO-INSTITUCIONAL
+https://github.com/JohnnyMSnake
 
 (Debido a que fueron desarrollados en entorno académico o colaborativo)
 
