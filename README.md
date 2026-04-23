@@ -15,4 +15,4 @@ https://github.com/JohnnyMSnake
 De cualquier forma, deje los forks para acceso directo, aunque el historial sigue estando en la cuenta institucional
 
 # RESPECTO AL PROYECTO DEL TALLER
-Debido a que es un proyecto real, el taller no me permitio poner el proyecto en publico, aunque en mi CV se especifica que fue lo que hice
+Debido a que es un proyecto real, el taller no me permitio poner el proyecto en publico, solo se me permitio mostrar parte del backend del cual no esta puesto a produccion, simplemente es un proyecto personal basado en lo que era la logica original (AUN EN PROCESO).
