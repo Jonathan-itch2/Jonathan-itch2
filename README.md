@@ -3,11 +3,7 @@
 Estudiante de Ingeniería en Sistemas Computacionales
 Enfocado en desarrollo backend, APIs y sistemas web
 
-Tecnologías:
-ASP.NET Core, FastAPI
-Next.js, React
-MySQL, SQL Server
-Python, C#, JavaScript, TypeScript
+Tecnologías: ASP.NET Core, FastAPI, Next.js, React, MySQL, SQL Server, Python, C#, JavaScript, TypeScript
 
 ### Nota importante
 
