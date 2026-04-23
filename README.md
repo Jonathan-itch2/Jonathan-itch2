@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+💻 Lenguajes más usados
 <!--
 **Jonathan-itch2/Jonathan-itch2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
