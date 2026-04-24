@@ -17,6 +17,13 @@ Interesado en construir sistemas que resuelvan problemas reales y en mejorar con
 
 ---
 
+## NOTA 
+
+Este es mi perfil personal, si quieres  ver historial general con github, puedes revisarlo en mi perfil institucional, el cual es: https://github.com/JohnnyMSnake.
+Ademas, mi aporte en los forks anclados, son con la misma cuenta institucional.
+
+---
+
 ## Tecnologías
 
 ### Lenguajes
