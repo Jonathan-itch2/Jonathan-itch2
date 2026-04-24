@@ -1,55 +1,50 @@
-# 🚀 Jonathan David Salazar Vázquez
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+Developer;Web+Developer;Software+Engineer+in+progress;Building+real+solutions&center=true&width=500&height=45">
-</p>
+# Jonathan Salazar
 
 <p align="center">
   <a href="mailto:JonathanS.270304@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <img src="https://img.shields.io/badge/Location-Chihuahua,%20MX-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Ubicación-Chihuahua,%20MX-blue?style=for-the-badge">
 </p>
 
 ---
 
-## 🧠 About Me
+## Sobre mí
 
-💻 Software developer focused on **backend development, automation, and scalable web solutions**.
-🎓 Currently studying **Computer Systems Engineering**.
-⚡ Passionate about building systems that solve real-world problems.
-📈 Always learning and improving my architecture and development skills.
+Desarrollador de software enfocado en desarrollo backend, automatización y soluciones web escalables.
+Actualmente estudiante de Ingeniería en Sistemas Computacionales.
+Interesado en construir sistemas que resuelvan problemas reales y en mejorar continuamente mis habilidades técnicas y de arquitectura.
 
 ---
 
-## ⚙️ Tech Stack
+## Tecnologías
 
-### 💻 Languages
+### Lenguajes
 
 <p>
 <img src="https://skillicons.dev/icons?i=java,cs,python,php,js,ts" />
 </p>
 
-### 🌐 Frontend
+### Frontend
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
 </p>
 
-### ⚙️ Backend
+### Backend
 
 <p>
 <img src="https://skillicons.dev/icons?i=dotnet,fastapi,php" />
 </p>
 
-### 🗄️ Databases
+### Bases de datos
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql" />
 <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 </p>
 
-### 🧰 Tools
+### Herramientas
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,idea" />
@@ -57,83 +52,82 @@
 
 ---
 
-## 🧩 Featured Projects
+## Proyectos Destacados
 
-### 📊 Data Analysis Platform
+### Plataforma de Análisis de Datos
 
-* Dashboard web for business analytics
-* **Next.js + React frontend**
-* **FastAPI + Pandas backend**
-* AI-powered recommendations
-
----
-
-### 🔧 Afinaciones Torres (Web Backend)
-
-* REST API with **ASP.NET Core**
-* Clean layered architecture
-* Entity Framework Core
-* Full CRUD system
+* Dashboard web para análisis empresarial
+* Frontend con Next.js y React
+* Backend con FastAPI y Pandas
+* Generación de recomendaciones mediante IA
 
 ---
 
-### 🖥️ Afinaciones Torres (Desktop App)
+### Afinaciones Torres (Backend Web)
 
-* Java Swing application
-* MySQL database
-* Automated PDF sending via SMTP
-* Improved operational efficiency
-
----
-
-### 📦 Inventory System
-
-* PHP + JS + MySQL
-* Product management system
-* User testing & debugging
+* API REST con ASP.NET Core
+* Arquitectura en capas
+* Uso de Entity Framework Core
+* Operaciones CRUD completas
 
 ---
 
-## 📊 GitHub Stats
+### Afinaciones Torres (Aplicación de Escritorio)
+
+* Aplicación desarrollada en Java Swing
+* Base de datos MySQL
+* Envío automático de órdenes en PDF mediante SMTP
+* Optimización de procesos administrativos
+
+---
+
+### Sistema de Inventario
+
+* Desarrollo con PHP, JavaScript, HTML y CSS
+* Gestión de productos e inventario
+* Pruebas con usuario final y corrección de errores
+
+---
+
+## Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USERNAME&show_icons=true&theme=tokyonight" height="160">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USERNAME&layout=compact&theme=tokyonight" height="160">
+  <img src="https://github-readme-stats.vercel.app/api?username=JohnnyMSnake&show_icons=true&theme=tokyonight" height="160">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnnyMSnake&layout=compact&theme=tokyonight" height="160">
 </p>
 
 ---
 
-## 🔥 Activity Graph
+## Actividad
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USERNAME&theme=tokyo-night">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JohnnyMSnake&theme=tokyo-night">
 </p>
 
 ---
 
-## 🎯 Current Focus
+## Enfoque Actual
 
-* 🧠 AI applied to data analysis
-* ⚙️ Backend architecture & APIs
-* 📊 Data processing systems
-* 🚀 Scalable web applications
-
----
-
-## 🌎 Languages
-
-* 🇲🇽 Spanish: Native
-* 🇺🇸 English: B1
+* Aplicación de inteligencia artificial en análisis de datos
+* Diseño de APIs y arquitectura backend
+* Procesamiento de datos
+* Desarrollo de aplicaciones web escalables
 
 ---
 
-## 🤝 Let's Connect
+## Idiomas
 
-💼 Open to opportunities, collaborations, and cool projects.
+* Español: Nativo
+* Inglés: Nivel B1
+
+---
+
+## Contacto
+
+Abierto a oportunidades, colaboración y desarrollo de proyectos.
 
 ---
 
 <p align="center">
-  ⭐ If you like my work, feel free to follow or star a repo
+  Si te interesa mi trabajo, puedes seguir mi perfil o explorar mis repositorios
 </p>
-
