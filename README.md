@@ -1,92 +1,139 @@
-<!-- Banner opcional -->
+# 🚀 Jonathan David Salazar Vázquez
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Jonathan%20Salazar&fontSize=40&fontColor=ffffff" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+Developer;Web+Developer;Software+Engineer+in+progress;Building+real+solutions&center=true&width=500&height=45">
 </p>
 
-<h1 align="center"> Jonathan David Salazar Vázquez</h1>
-<h3 align="center"> Software Developer | Ingeniería en Sistemas Computacionales</h3>
-
 <p align="center">
-  <a href="mailto:JonathanS.270304@gmail.com">📧 Email</a> •
-  <a href="https://github.com/"> GitHub</a>
-</p>
-
----
-
-## Sobre mí
-
-Soy desarrollador enfocado en crear soluciones reales mediante software.
-Me interesa el desarrollo backend, la automatización de procesos y la construcción de herramientas útiles.
-
-Actualmente estoy en constante aprendizaje, mejorando mis habilidades en arquitectura de software y desarrollo profesional.
-
----
-
-## Tecnologías
-
-<p align="center">
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=java\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge\&logo=javascript)
-
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge\&logo=mysql)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi)
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
-
+  <a href="mailto:JonathanS.270304@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <img src="https://img.shields.io/badge/Location-Chihuahua,%20MX-blue?style=for-the-badge">
 </p>
 
 ---
 
-## Experiencia
+## 🧠 About Me
 
-### Afinaciones Torres (2025)
-
-* Sistema de gestión de clientes y vehículos
-* Generación automática de órdenes en PDF
-* Base de datos MySQL
-* Aplicación de escritorio en Java (Swing)
+💻 Software developer focused on **backend development, automation, and scalable web solutions**.
+🎓 Currently studying **Computer Systems Engineering**.
+⚡ Passionate about building systems that solve real-world problems.
+📈 Always learning and improving my architecture and development skills.
 
 ---
 
-### QS Testing Solutions (2021 - 2022)
+## ⚙️ Tech Stack
 
-* Sistema de inventario completo (CRUD)
-* Desarrollo con PHP, JS, HTML, CSS
-* Pruebas con usuarios y mejora continua
+### 💻 Languages
 
----
+<p>
+<img src="https://skillicons.dev/icons?i=java,cs,python,php,js,ts" />
+</p>
 
-## Proyectos
+### 🌐 Frontend
 
-### Plataforma de Análisis de Datos
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
+</p>
 
-* Dashboard web interactivo
-* Backend con FastAPI + Pandas
-* Procesamiento de archivos CSV y Excel
+### ⚙️ Backend
 
----
+<p>
+<img src="https://skillicons.dev/icons?i=dotnet,fastapi,php" />
+</p>
 
-## Estadísticas
+### 🗄️ Databases
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JohnnyMSnake&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnnyMSnake&layout=compact&theme=tokyonight" height="150"/>
+<p>
+<img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+</p>
+
+### 🧰 Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,idea" />
 </p>
 
 ---
 
-## Contacto
+## 🧩 Featured Projects
 
-📧 [JonathanS.270304@gmail.com](mailto:JonathanS.270304@gmail.com)
-📍 Chihuahua, México
+### 📊 Data Analysis Platform
+
+* Dashboard web for business analytics
+* **Next.js + React frontend**
+* **FastAPI + Pandas backend**
+* AI-powered recommendations
+
+---
+
+### 🔧 Afinaciones Torres (Web Backend)
+
+* REST API with **ASP.NET Core**
+* Clean layered architecture
+* Entity Framework Core
+* Full CRUD system
+
+---
+
+### 🖥️ Afinaciones Torres (Desktop App)
+
+* Java Swing application
+* MySQL database
+* Automated PDF sending via SMTP
+* Improved operational efficiency
+
+---
+
+### 📦 Inventory System
+
+* PHP + JS + MySQL
+* Product management system
+* User testing & debugging
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USERNAME&show_icons=true&theme=tokyonight" height="160">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USERNAME&layout=compact&theme=tokyonight" height="160">
+</p>
+
+---
+
+## 🔥 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USERNAME&theme=tokyo-night">
+</p>
+
+---
+
+## 🎯 Current Focus
+
+* 🧠 AI applied to data analysis
+* ⚙️ Backend architecture & APIs
+* 📊 Data processing systems
+* 🚀 Scalable web applications
+
+---
+
+## 🌎 Languages
+
+* 🇲🇽 Spanish: Native
+* 🇺🇸 English: B1
+
+---
+
+## 🤝 Let's Connect
+
+💼 Open to opportunities, collaborations, and cool projects.
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
+  ⭐ If you like my work, feel free to follow or star a repo
 </p>
+
