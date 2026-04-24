@@ -4,26 +4,26 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Jonathan%20Salazar&fontSize=40&fontColor=ffffff" />
 </p>
 
-<h1 align="center">👨‍💻 Jonathan David Salazar Vázquez</h1>
-<h3 align="center">🚀 Software Developer | Ingeniería en Sistemas Computacionales</h3>
+<h1 align="center"> Jonathan David Salazar Vázquez</h1>
+<h3 align="center"> Software Developer | Ingeniería en Sistemas Computacionales</h3>
 
 <p align="center">
   <a href="mailto:JonathanS.270304@gmail.com">📧 Email</a> •
-  <a href="https://github.com/">💻 GitHub</a>
+  <a href="https://github.com/"> GitHub</a>
 </p>
 
 ---
 
-## 🧠 Sobre mí
+## Sobre mí
 
-💡 Soy desarrollador enfocado en crear soluciones reales mediante software.
+Soy desarrollador enfocado en crear soluciones reales mediante software.
 Me interesa el desarrollo backend, la automatización de procesos y la construcción de herramientas útiles.
 
-📈 Actualmente estoy en constante aprendizaje, mejorando mis habilidades en arquitectura de software y desarrollo profesional.
+Actualmente estoy en constante aprendizaje, mejorando mis habilidades en arquitectura de software y desarrollo profesional.
 
 ---
 
-## 🛠️ Tecnologías
+## Tecnologías
 
 <p align="center">
 
@@ -42,9 +42,9 @@ Me interesa el desarrollo backend, la automatización de procesos y la construcc
 
 ---
 
-## 📌 Experiencia
+## Experiencia
 
-### 🔧 Afinaciones Torres (2025)
+### Afinaciones Torres (2025)
 
 * Sistema de gestión de clientes y vehículos
 * Generación automática de órdenes en PDF
@@ -53,7 +53,7 @@ Me interesa el desarrollo backend, la automatización de procesos y la construcc
 
 ---
 
-### 🧪 QS Testing Solutions (2021 - 2022)
+### QS Testing Solutions (2021 - 2022)
 
 * Sistema de inventario completo (CRUD)
 * Desarrollo con PHP, JS, HTML, CSS
@@ -61,9 +61,9 @@ Me interesa el desarrollo backend, la automatización de procesos y la construcc
 
 ---
 
-## 🚀 Proyectos
+## Proyectos
 
-### 📊 Plataforma de Análisis de Datos
+### Plataforma de Análisis de Datos
 
 * Dashboard web interactivo
 * Backend con FastAPI + Pandas
@@ -71,44 +71,21 @@ Me interesa el desarrollo backend, la automatización de procesos y la construcc
 
 ---
 
-## 📊 Estadísticas
+## Estadísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=JohnnyMSnake&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnnyMSnake&layout=compact&theme=tokyonight" height="150"/>
 </p>
 
 ---
 
-## 🎯 Objetivo
-
-Construir software que resuelva problemas reales, crecer como desarrollador y aportar valor en proyectos profesionales de alto impacto.
-
----
-
-## 📫 Contacto
+## Contacto
 
 📧 [JonathanS.270304@gmail.com](mailto:JonathanS.270304@gmail.com)
 📍 Chihuahua, México
 
 ---
-
-## ⚡ Fun Code
-
-```javascript
-const jonathan = {
-  code: ["Java", "Python", "PHP", "JavaScript"],
-  tools: ["FastAPI", "MySQL", "Git"],
-  focus: "Backend & automatización",
-  mindset: "Solve real problems"
-};
-```
-
----
-
-<p align="center">
-  ⭐ Gracias por visitar mi perfil ⭐
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
