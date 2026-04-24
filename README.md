@@ -78,6 +78,7 @@ Interesado en construir sistemas que resuelvan problemas reales y en mejorar con
 * Base de datos MySQL
 * Envío automático de órdenes en PDF mediante SMTP
 * Optimización de procesos administrativos
+* NOTA: Debido a que es proyecto real y puesto en produccion, no se me permitio poner el repositorio en publico
 
 ---
 
@@ -98,33 +99,10 @@ Interesado en construir sistemas que resuelvan problemas reales y en mejorar con
 
 ---
 
-## Actividad
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JohnnyMSnake&theme=tokyo-night">
-</p>
-
----
-
-## Enfoque Actual
-
-* Aplicación de inteligencia artificial en análisis de datos
-* Diseño de APIs y arquitectura backend
-* Procesamiento de datos
-* Desarrollo de aplicaciones web escalables
-
----
-
 ## Idiomas
 
 * Español: Nativo
 * Inglés: Nivel B1
-
----
-
-## Contacto
-
-Abierto a oportunidades, colaboración y desarrollo de proyectos.
 
 ---
 
